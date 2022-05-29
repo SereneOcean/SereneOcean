@@ -1,4 +1,3 @@
-## OceanFruit
 ![Counts](https://komarev.com/ghpvc/?username=OceanFruit)<br>
 
 ### Stats
