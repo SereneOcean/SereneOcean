@@ -4,8 +4,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=OceanFruit&show_icons=true) 
 
 ### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OceanFruit)](https://github.com/OceanFruit)<br>
-
-https://metrics.lecoq.io/
-https://gist.github.com/rxaviers/7360908
-https://shields.io/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OceanFruit&layout=compact&hide_border=true&langs_count=10)](https://github.com/OceanFruit)<br>
